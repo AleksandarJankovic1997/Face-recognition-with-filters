@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.google.android.material.tabs.TabLayout
+        android:paddingTop="7sp"
+        android:id="@+id/tablayout_id"
+        android:layout_width="match_parent"
+        app:tabTextColor="@color/color_white"
+        app:tabIndicatorColor="@color/blue_dark"
+        app:tabIndicatorHeight="5sp"
+        android:background="@color/color_blue"
+        app:tabSelectedTextColor="@color/color_grey"
+        android:layout_height="wrap_content">
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tab1_id"
+            android:text="Face filters"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </com.google.android.material.tabs.TabItem>
+        <com.google.android.material.tabs.TabItem
+            android:text="Animal detection"
+            android:id="@+id/tab2_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </com.google.android.material.tabs.TabItem>
+    </com.google.android.material.tabs.TabLayout>
+    <FrameLayout
+        android:id="@+id/activityFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+
+
+</LinearLayout>

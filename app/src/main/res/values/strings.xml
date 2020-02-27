@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VestackaInteligencija1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="brkovi">Brkovi</string>
+    <string name="Srca">Srca</string>
+    <string name="kvadrat">kvadrat</string>
+    <string name="no_photo">There is no faces on this picture!</string>
+</resources>

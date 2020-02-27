@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608607379387",
+    "firebase_url": "https://vestackainteligencija1.firebaseio.com",
+    "project_id": "vestackainteligencija1",
+    "storage_bucket": "vestackainteligencija1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608607379387:android:ff23d5e0afc4000edc2e9e",
+        "android_client_info": {
+          "package_name": "com.example.vestackainteligencija1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608607379387-h8710ft6me3j06j0ro0u9oc0tbb3gqtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vestackainteligencija1",
+            "certificate_hash": "cc16c5b292b65a2c56f5638ef63b3a80489ffc1d"
+          }
+        },
+        {
+          "client_id": "608607379387-efvgn0ricnc8nk1gnv88i27eut70lflj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUjakyiv00lzbDvlyUv1jjxlGgEKs6lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608607379387-efvgn0ricnc8nk1gnv88i27eut70lflj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
